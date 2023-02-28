@@ -4,7 +4,7 @@
   "description": "My description",
   "main": "index.js",
   "scripts": {
-    "test": "jest --forceExit --coverage"
+    "test": "jest --forceExit --collectCoverage"
   },
   "author": "Edmundo Cossio R",
   "license": "ISC",
